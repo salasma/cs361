@@ -1,4 +1,5 @@
 var mysql = require('mysql');
+var thesaurus = require('thesaurus-synonyms');
 
 module.exports.pool = pool;
 
